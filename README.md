@@ -61,9 +61,9 @@ Below is a comparative breakdown of top commercial SaaS email platforms sorted b
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated list of production-grade open-source email clients, webmail applications, and terminal tools, sorted by **GitHub Star Count (Descending)**:
+Below is a curated list of production-grade open-source email clients, webmail applications, and terminal tools, sorted by **GitHub Stars_Count (Descending)**:
 
-| 📦 Repository & Description | ⭐ Star Count |
+| 📦 Repository & Description | ⭐ Stars_Count |
 |:---|:---|
 | **[Thunderbird](https://github.com/mozilla/releases-comm-central)** — 🦅 The flagship cross-platform open-source desktop email, calendar, and contacts client (MPL-2.0). | [![Stars](https://img.shields.io/github/stars/mozilla/releases-comm-central?style=social&color=white)](https://github.com/mozilla/releases-comm-central/stargazers) |
 | **[Mailspring](https://github.com/Foundry376/Mailspring)** — 🚀 Fast, beautiful desktop email client for Windows, Mac, and Linux built on a C++ sync engine (GPL-3.0). | [![Stars](https://img.shields.io/github/stars/Foundry376/Mailspring?style=social&color=white)](https://github.com/Foundry376/Mailspring/stargazers) |
